@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "285441738104",
+    "project_id": "bdcrudtiendamaquillaje0313",
+    "storage_bucket": "bdcrudtiendamaquillaje0313.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285441738104:android:7cc368bc7e876a6738f48d",
+        "android_client_info": {
+          "package_name": "com.example.crudtiendamaquillaje"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJqikm1NUnHeIt0l3OOpqq2HBoG6XjhAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
