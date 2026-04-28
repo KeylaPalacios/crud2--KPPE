@@ -1,1 +1,0 @@
- C:\\Users\\Alumno\\Downloads\\Ejemplo-crud-tienda-maquillaje-6J-abril-2026-crud-tienda-maquillaje\\build\\16f104e80c92a364659ebfc0e44dd023\\dart_build_result.json: 
